@@ -1,5 +1,6 @@
 ## How to Contribute
-This document details how to make contributions to this project
+Thank you for your interest in wanting to contribute to this project. This document details how to make contributions to this project
+
 ### Bug Reports
 
 If you come across a bug or an issue, please follow these steps to report it:
