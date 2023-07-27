@@ -25,7 +25,9 @@ To run this code you need the following:
 
 If you have found a bug:
 
-1. If you have a source-code fix, please read the [CONTRIBUTING.md][] document.
+1. If you have a source-code fix, please read the [CONTRIBUTING.md] document.
+
+[CONTRIBUTING.md]:  
 
 
 ### About the Author
