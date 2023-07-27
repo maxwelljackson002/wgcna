@@ -27,18 +27,18 @@ If you have found a bug:
 
 1. If you have a source-code fix, please read the [CONTRIBUTING.md] document.
 
-[CONTRIBUTING.md]:  
+[CONTRIBUTING.md]: https://github.com/maxwelljackson002/wgcna/blob/master/CONTRIBUTING.md
 
 
 ### About the Author
 
-Hi there! 👋 I'm Maxwell Jackson, the creator of this project.
+Hi there! 👋 I'm Maxwell Jackson, the creator of this project. This project was done in collaboration with Dr. Perera from the USDA and Dr. Su and Dr. Yu from UT Arlington
 
 Maxwell Jackson - Ph.D student at University of Texas at Arlington
 
 ### What Motivated Me to Create This Project?
 
-I am a first year Ph.D student and was given the opportunity by Dr. Perera from the USDA and Dr. Su and Dr. Yu from UT Arlington to join this internship and work on this project. This project has taught me so much about building apps and coding
+I am a first year Ph.D student and was given the opportunity to join this internship and work on this project. This project has taught me so much about building apps and coding
 
 ### Connect with Me
 
